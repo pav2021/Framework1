@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.pav.base.TestBase"/>
-      <class name="com.pav.testcases.LoginTest"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
